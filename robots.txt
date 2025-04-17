@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Allow: /home
+Allow: /services
+Allow: /about
+Allow: /contact
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /login
+Disallow: /payment
+Disallow: /profile
+Sitemap: https://weprintt.netlify.app/sitemap.xml
